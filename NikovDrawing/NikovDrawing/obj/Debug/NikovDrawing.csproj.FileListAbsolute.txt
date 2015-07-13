@@ -1,0 +1,4 @@
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovDrawing\bin\Debug\NikovDrawing.dll
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovDrawing\bin\Debug\NikovDrawing.pdb
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovDrawing\obj\Debug\NikovDrawing.dll
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovDrawing\obj\Debug\NikovDrawing.pdb

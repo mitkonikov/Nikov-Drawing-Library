@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikovDrawing", "NikovDrawing\NikovDrawing.csproj", "{26219BA8-43D0-4419-8849-BDEF35A70709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikovTesting", "NikovTesting\NikovTesting.csproj", "{C60E2D0F-B275-4DED-BA9F-0373A821DB8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{26219BA8-43D0-4419-8849-BDEF35A70709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26219BA8-43D0-4419-8849-BDEF35A70709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26219BA8-43D0-4419-8849-BDEF35A70709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E2D0F-B275-4DED-BA9F-0373A821DB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E2D0F-B275-4DED-BA9F-0373A821DB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E2D0F-B275-4DED-BA9F-0373A821DB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E2D0F-B275-4DED-BA9F-0373A821DB8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

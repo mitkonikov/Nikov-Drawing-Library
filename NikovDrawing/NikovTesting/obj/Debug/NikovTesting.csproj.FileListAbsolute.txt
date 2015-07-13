@@ -1,0 +1,11 @@
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\bin\Debug\NikovTesting.exe.config
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\bin\Debug\NikovTesting.exe
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\bin\Debug\NikovTesting.pdb
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.csprojResolveAssemblyReference.cache
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.Form1.resources
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.Properties.Resources.resources
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.csproj.GenerateResource.Cache
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.exe
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\obj\Debug\NikovTesting.pdb
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\bin\Debug\NikovDrawing.dll
+C:\work\Nikov-Drawing-Library\NikovDrawing\NikovTesting\bin\Debug\NikovDrawing.pdb

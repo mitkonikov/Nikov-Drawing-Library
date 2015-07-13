@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NikovDrawing")]
+[assembly: AssemblyTitle("NikovTesting")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Nikov")]
-[assembly: AssemblyProduct("NikovDrawing")]
-[assembly: AssemblyCopyright("Copyright  © Nikov 2015")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("NikovTesting")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b0304e7f-d6a7-4cc0-b7f0-76dec1d2c00d")]
+[assembly: Guid("33f5d18a-9e83-4a72-ae6d-941a464ca7d8")]
 
 // Version information for an assembly consists of the following four values:
 //
