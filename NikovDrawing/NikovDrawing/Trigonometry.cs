@@ -72,8 +72,15 @@ namespace NikovDrawing
         }
 
         // Video : https://www.youtube.com/watch?v=rFgA9EpHoRg
-
-        private Point LineEllipse(int Angle, int radiusWidth, int radiusHeight, Point Center)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="Angle"> The Angle </param>
+        /// <param name="radiusWidth"> The Width Radius </param>
+        /// <param name="radiusHeight"> The Height Radius </param>
+        /// <param name="Center"> The Center of the ellipse </param>
+        /// <returns></returns>
+        public Point LineEllipse(int Angle, int radiusWidth, int radiusHeight, Point Center)
         {
             Point ptfPoint = new Point((int)(Center.X + radiusWidth * Math.Cos(Angle * Math.PI / 180)), (int)(Center.Y + radiusHeight * Math.Sin(Angle * Math.PI / 180)));
             return ptfPoint;
